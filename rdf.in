@@ -1,0 +1,31 @@
+trajin ../*.nc 20001 last
+
+#radial rdf-bb-1-2.dat .1 35.0 :1-37@CA,C,N,O :39-75@CA,C,N,O volume bymol1 bymol2
+#
+#radial rdf-bb-1-3.dat .1 35.0 :1-37@CA,C,N,O :77-113@CA,C,N,O volume bymol1 bymol2
+#
+#radial rdf-bb-1-4.dat .1 35.0 :1-37@CA,C,N,O :115-151@CA,C,N,O volume bymol1 bymol2
+#
+#radial rdf-bb-2-3.dat .1 35.0 :39-75@CA,C,N,O :77-113@CA,C,N,O volume bymol1 bymol2
+#
+#radial rdf-bb-2-4.dat .1 35.0 :39-75@CA,C,N,O :115-151@CA,C,N,O volume bymol1 bymol2
+#
+#radial rdf-bb-3-4.dat .1 35.0 :77-113@CA,C,N,O :115-151@CA,C,N,O volume bymol1 bymol2
+
+radial rdf-bb.dat .1 35.0 :1-37,39-75,77-113,115-151@CA,C,N,O :1-37,39-75,77-113,115-151@CA,C,N,O volume bymol1 bymol2
+
+
+radial rdf-bb-wat.dat .1 35.0 :1-37,39-75,77-113,115-151@CA,C,N,O :WAT@O volume bymol1 bymol2
+
+#radial rdf-bb-inhi.dat .1 35.0 :1-37,39-75,77-113,115-151@CA,C,N,O :165-212@CA,C,N,O volume bymol1 bymol2
+
+
+#radial rdf-bb-wat-1.dat .1 35.0 :1-37@CA,C,N,O :WAT@O volume bymol1 bymol2
+#
+#radial rdf-bb-wat-2.dat .1 35.0 :39-75@CA,C,N,O :WAT@O volume bymol1 bymol2
+#
+#radial rdf-bb-wat-3.dat .1 35.0 :77-113@CA,C,N,O :WAT@O volume bymol1 bymol2
+#
+#radial rdf-bb-wat-4.dat .1 35.0 :115-151@CA,C,N,O :WAT@O volume bymol1 bymol2
+
+radial rdf-bb-wat-2-4.dat .1 35.0 :39-75,77-113,115-151@CA,C,N,O :WAT@O volume bymol1 bymol2

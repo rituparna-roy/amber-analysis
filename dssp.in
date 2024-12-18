@@ -1,0 +1,3 @@
+trajin ../*.nc 
+
+secstruct :1-37,39-75,77-113,115-151 out sec_whole.gnu totalout sec_time.dat

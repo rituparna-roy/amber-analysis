@@ -1,0 +1,14 @@
+trajin ../*.nc
+
+rmsd D1 :1-38@CA first out ca-rmsd-1.dat mass
+rmsd D2 :39-76@CA first out ca-rmsd-2.dat mass
+rmsd D3 :77-114@CA first out ca-rmsd-3.dat mass
+rmsd D4 :115-152@CA first out ca-rmsd-4.dat mass
+#rmsd D5 :153-190@N,CA,C first out whole-rmsd-p5.dat mass
+#rmsd D6 :191-228@N,CA,C first out whole-rmsd-p6.dat mass
+#rmsd D7 :229-266@N,CA,C first out whole-rmsd-p7.dat mass
+#rmsd D8 :267-304@N,CA,C first out whole-rmsd-p8.dat mass
+#rmsd D9 :305-342@N,CA,C first out whole-rmsd-p9.dat mass
+#rmsd D10 :343-380@N,CA,C first out whole-rmsd-p10.dat mass
+
+rmsd D11 :1-152@CA first out ca-rmsd-whole.dat mass

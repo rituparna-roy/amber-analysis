@@ -1,0 +1,3 @@
+trajin ../sample-7.nc
+
+trajout sample-7.pdb pdb

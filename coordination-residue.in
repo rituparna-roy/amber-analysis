@@ -1,0 +1,482 @@
+trajin ../../*.nc 20001 last
+
+
+watershell :1,39,77,115&!@H= out coor_no_res1_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :1,39,77,115&!@H= out coor_no_res1_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :1,39,77,115&!@H= out coor_no_res1_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :1,39,77,115&!@H= out coor_no_res1_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :1,39,77,115&!@H= out coor_no_res1_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :1,39,77,115&!@H= out coor_no_res1_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :2,40,78,116&!@H= out coor_no_res2_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :2,40,78,116&!@H= out coor_no_res2_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :2,40,78,116&!@H= out coor_no_res2_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :2,40,78,116&!@H= out coor_no_res2_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :2,40,78,116&!@H= out coor_no_res2_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :2,40,78,116&!@H= out coor_no_res2_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :3,41,79,117&!@H= out coor_no_res3_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :3,41,79,117&!@H= out coor_no_res3_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :3,41,79,117&!@H= out coor_no_res3_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :3,41,79,117&!@H= out coor_no_res3_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :3,41,79,117&!@H= out coor_no_res3_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :3,41,79,117&!@H= out coor_no_res3_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :4,42,80,118&!@H= out coor_no_res4_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :4,42,80,118&!@H= out coor_no_res4_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :4,42,80,118&!@H= out coor_no_res4_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :4,42,80,118&!@H= out coor_no_res4_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :4,42,80,118&!@H= out coor_no_res4_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :4,42,80,118&!@H= out coor_no_res4_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :5,43,81,119&!@H= out coor_no_res5_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :5,43,81,119&!@H= out coor_no_res5_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :5,43,81,119&!@H= out coor_no_res5_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :5,43,81,119&!@H= out coor_no_res5_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :5,43,81,119&!@H= out coor_no_res5_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :5,43,81,119&!@H= out coor_no_res5_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :6,44,82,120&!@H= out coor_no_res6_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :6,44,82,120&!@H= out coor_no_res6_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :6,44,82,120&!@H= out coor_no_res6_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :6,44,82,120&!@H= out coor_no_res6_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :6,44,82,120&!@H= out coor_no_res6_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :6,44,82,120&!@H= out coor_no_res6_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :7,45,83,121&!@H= out coor_no_res7_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :7,45,83,121&!@H= out coor_no_res7_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :7,45,83,121&!@H= out coor_no_res7_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :7,45,83,121&!@H= out coor_no_res7_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :7,45,83,121&!@H= out coor_no_res7_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :7,45,83,121&!@H= out coor_no_res7_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :8,46,84,122&!@H= out coor_no_res8_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :8,46,84,122&!@H= out coor_no_res8_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :8,46,84,122&!@H= out coor_no_res8_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :8,46,84,122&!@H= out coor_no_res8_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :8,46,84,122&!@H= out coor_no_res8_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :8,46,84,122&!@H= out coor_no_res8_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :9,47,85,123&!@H= out coor_no_res9_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :9,47,85,123&!@H= out coor_no_res9_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :9,47,85,123&!@H= out coor_no_res9_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :9,47,85,123&!@H= out coor_no_res9_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :9,47,85,123&!@H= out coor_no_res9_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :9,47,85,123&!@H= out coor_no_res9_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :10,48,86,124&!@H= out coor_no_res10_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :10,48,86,124&!@H= out coor_no_res10_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :10,48,86,124&!@H= out coor_no_res10_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :10,48,86,124&!@H= out coor_no_res10_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :10,48,86,124&!@H= out coor_no_res10_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :10,48,86,124&!@H= out coor_no_res10_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :11,49,87,125&!@H= out coor_no_res11_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :11,49,87,125&!@H= out coor_no_res11_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :11,49,87,125&!@H= out coor_no_res11_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :11,49,87,125&!@H= out coor_no_res11_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :11,49,87,125&!@H= out coor_no_res11_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :11,49,87,125&!@H= out coor_no_res11_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :12,50,88,126&!@H= out coor_no_res12_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :12,50,88,126&!@H= out coor_no_res12_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :12,50,88,126&!@H= out coor_no_res12_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :12,50,88,126&!@H= out coor_no_res12_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :12,50,88,126&!@H= out coor_no_res12_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :12,50,88,126&!@H= out coor_no_res12_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :13,51,89,127&!@H= out coor_no_res13_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :13,51,89,127&!@H= out coor_no_res13_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :13,51,89,127&!@H= out coor_no_res13_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :13,51,89,127&!@H= out coor_no_res13_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :13,51,89,127&!@H= out coor_no_res13_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :13,51,89,127&!@H= out coor_no_res13_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :14,52,90,128&!@H= out coor_no_res14_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :14,52,90,128&!@H= out coor_no_res14_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :14,52,90,128&!@H= out coor_no_res14_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :14,52,90,128&!@H= out coor_no_res14_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :14,52,90,128&!@H= out coor_no_res14_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :14,52,90,128&!@H= out coor_no_res14_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :15,53,91,129&!@H= out coor_no_res15_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :15,53,91,129&!@H= out coor_no_res15_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :15,53,91,129&!@H= out coor_no_res15_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :15,53,91,129&!@H= out coor_no_res15_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :15,53,91,129&!@H= out coor_no_res15_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :15,53,91,129&!@H= out coor_no_res15_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :16,54,92,130&!@H= out coor_no_res16_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :16,54,92,130&!@H= out coor_no_res16_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :16,54,92,130&!@H= out coor_no_res16_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :16,54,92,130&!@H= out coor_no_res16_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :16,54,92,130&!@H= out coor_no_res16_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :16,54,92,130&!@H= out coor_no_res16_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :17,55,93,131&!@H= out coor_no_res17_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :17,55,93,131&!@H= out coor_no_res17_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :17,55,93,131&!@H= out coor_no_res17_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :17,55,93,131&!@H= out coor_no_res17_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :17,55,93,131&!@H= out coor_no_res17_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :17,55,93,131&!@H= out coor_no_res17_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :18,56,94,132&!@H= out coor_no_res18_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :18,56,94,132&!@H= out coor_no_res18_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :18,56,94,132&!@H= out coor_no_res18_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :18,56,94,132&!@H= out coor_no_res18_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :18,56,94,132&!@H= out coor_no_res18_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :18,56,94,132&!@H= out coor_no_res18_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :19,57,95,133&!@H= out coor_no_res19_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :19,57,95,133&!@H= out coor_no_res19_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :19,57,95,133&!@H= out coor_no_res19_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :19,57,95,133&!@H= out coor_no_res19_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :19,57,95,133&!@H= out coor_no_res19_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :19,57,95,133&!@H= out coor_no_res19_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :20,58,96,134&!@H= out coor_no_res20_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :20,58,96,134&!@H= out coor_no_res20_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :20,58,96,134&!@H= out coor_no_res20_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :20,58,96,134&!@H= out coor_no_res20_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :20,58,96,134&!@H= out coor_no_res20_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :20,58,96,134&!@H= out coor_no_res20_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :21,59,97,135&!@H= out coor_no_res21_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :21,59,97,135&!@H= out coor_no_res21_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :21,59,97,135&!@H= out coor_no_res21_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :21,59,97,135&!@H= out coor_no_res21_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :21,59,97,135&!@H= out coor_no_res21_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :21,59,97,135&!@H= out coor_no_res21_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :22,60,98,136&!@H= out coor_no_res22_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :22,60,98,136&!@H= out coor_no_res22_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :22,60,98,136&!@H= out coor_no_res22_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :22,60,98,136&!@H= out coor_no_res22_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :22,60,98,136&!@H= out coor_no_res22_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :22,60,98,136&!@H= out coor_no_res22_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :23,61,99,137&!@H= out coor_no_res23_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :23,61,99,137&!@H= out coor_no_res23_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :23,61,99,137&!@H= out coor_no_res23_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :23,61,99,137&!@H= out coor_no_res23_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :23,61,99,137&!@H= out coor_no_res23_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :23,61,99,137&!@H= out coor_no_res23_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :24,62,100,138&!@H= out coor_no_res24_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :24,62,100,138&!@H= out coor_no_res24_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :24,62,100,138&!@H= out coor_no_res24_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :24,62,100,138&!@H= out coor_no_res24_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :24,62,100,138&!@H= out coor_no_res24_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :24,62,100,138&!@H= out coor_no_res24_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :25,63,101,139&!@H= out coor_no_res25_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :25,63,101,139&!@H= out coor_no_res25_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :25,63,101,139&!@H= out coor_no_res25_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :25,63,101,139&!@H= out coor_no_res25_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :25,63,101,139&!@H= out coor_no_res25_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :25,63,101,139&!@H= out coor_no_res25_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :26,64,102,140&!@H= out coor_no_res26_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :26,64,102,140&!@H= out coor_no_res26_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :26,64,102,140&!@H= out coor_no_res26_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :26,64,102,140&!@H= out coor_no_res26_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :26,64,102,140&!@H= out coor_no_res26_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :26,64,102,140&!@H= out coor_no_res26_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :27,65,103,141&!@H= out coor_no_res27_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :27,65,103,141&!@H= out coor_no_res27_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :27,65,103,141&!@H= out coor_no_res27_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :27,65,103,141&!@H= out coor_no_res27_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :27,65,103,141&!@H= out coor_no_res27_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :27,65,103,141&!@H= out coor_no_res27_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :28,66,104,142&!@H= out coor_no_res28_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :28,66,104,142&!@H= out coor_no_res28_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :28,66,104,142&!@H= out coor_no_res28_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :28,66,104,142&!@H= out coor_no_res28_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :28,66,104,142&!@H= out coor_no_res28_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :28,66,104,142&!@H= out coor_no_res28_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :29,67,105,143&!@H= out coor_no_res29_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :29,67,105,143&!@H= out coor_no_res29_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :29,67,105,143&!@H= out coor_no_res29_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :29,67,105,143&!@H= out coor_no_res29_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :29,67,105,143&!@H= out coor_no_res29_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :29,67,105,143&!@H= out coor_no_res29_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :30,68,106,144&!@H= out coor_no_res30_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :30,68,106,144&!@H= out coor_no_res30_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :30,68,106,144&!@H= out coor_no_res30_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :30,68,106,144&!@H= out coor_no_res30_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :30,68,106,144&!@H= out coor_no_res30_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :30,68,106,144&!@H= out coor_no_res30_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :31,69,107,145&!@H= out coor_no_res31_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :31,69,107,145&!@H= out coor_no_res31_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :31,69,107,145&!@H= out coor_no_res31_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :31,69,107,145&!@H= out coor_no_res31_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :31,69,107,145&!@H= out coor_no_res31_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :31,69,107,145&!@H= out coor_no_res31_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :32,70,108,146&!@H= out coor_no_res32_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :32,70,108,146&!@H= out coor_no_res32_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :32,70,108,146&!@H= out coor_no_res32_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :32,70,108,146&!@H= out coor_no_res32_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :32,70,108,146&!@H= out coor_no_res32_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :32,70,108,146&!@H= out coor_no_res32_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :33,71,109,147&!@H= out coor_no_res33_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :33,71,109,147&!@H= out coor_no_res33_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :33,71,109,147&!@H= out coor_no_res33_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :33,71,109,147&!@H= out coor_no_res33_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :33,71,109,147&!@H= out coor_no_res33_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :33,71,109,147&!@H= out coor_no_res33_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :34,72,110,148&!@H= out coor_no_res34_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :34,72,110,148&!@H= out coor_no_res34_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :34,72,110,148&!@H= out coor_no_res34_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :34,72,110,148&!@H= out coor_no_res34_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :34,72,110,148&!@H= out coor_no_res34_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :34,72,110,148&!@H= out coor_no_res34_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :35,73,111,149&!@H= out coor_no_res35_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :35,73,111,149&!@H= out coor_no_res35_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :35,73,111,149&!@H= out coor_no_res35_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :35,73,111,149&!@H= out coor_no_res35_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :35,73,111,149&!@H= out coor_no_res35_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :35,73,111,149&!@H= out coor_no_res35_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :36,74,112,150&!@H= out coor_no_res36_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :36,74,112,150&!@H= out coor_no_res36_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :36,74,112,150&!@H= out coor_no_res36_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :36,74,112,150&!@H= out coor_no_res36_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :36,74,112,150&!@H= out coor_no_res36_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :36,74,112,150&!@H= out coor_no_res36_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=
+
+
+watershell :37,75,113,151&!@H= out coor_no_res37_N.dat lower 3.5 upper 5.0 noimage :165,171,177,183,189,195,201,207&!@H=
+
+watershell :37,75,113,151&!@H= out coor_no_res37_F.dat lower 3.5 upper 5.0 noimage :166,172,178,184,190,196,202,208&!@H=
+
+watershell :37,75,113,151&!@H= out coor_no_res37_G.dat lower 3.5 upper 5.0 noimage :167,173,179,185,191,197,203,209&!@H=
+
+watershell :37,75,113,151&!@H= out coor_no_res37_A.dat lower 3.5 upper 5.0 noimage :168,174,180,186,192,198,204,210&!@H=
+
+watershell :37,75,113,151&!@H= out coor_no_res37_I.dat lower 3.5 upper 5.0 noimage :169,175,181,187,193,199,205,211&!@H=
+
+watershell :37,75,113,151&!@H= out coor_no_res37_L.dat lower 3.5 upper 5.0 noimage :170,176,182,188,194,200,206,212&!@H=

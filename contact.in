@@ -1,0 +1,21 @@
+trajin ../*.nc 20001 last
+
+#matrix out contact-all.gnu dist :1-37,39-75,77-113,115-151 :1-37,39-75,77-113,115-151
+
+matrix out contact-ca.gnu dist :1-37,39-75,77-113,115-151@CA :1-37,39-75,77-113,115-151@CA 
+
+#matrix out contact-bb.gnu dist :1-37,39-75,77-113,115-151@N,CA,C,O :1-37,39-75,77-113,115-151@N,CA,C,O byres
+
+matrix out contact-sc.gnu dist :1-37,39-75,77-113,115-151&!@N,CA,C,O,H= :1-37,39-75,77-113,115-151&!@N,CA,C,O,H= byres
+
+#matrix out contact-whole.gnu dist :1-37,39-75,77-113,115-151 :1-37,39-75,77-113,115-151 byres
+
+
+#matrix out contact-inhi-ca.gnu dist :1-37,39-75,77-113,115-151@CA :165-212@CA,C1,C6 byres
+
+#matrix out contact-d-bb.gnu dist :1-37,39-75,77-113,115-151@N,CA,C,O :165-170,172-177,179-184,186-191,193-198,200-205,207-212,214-219,221-226,228-233,235-240,242-247@N,CA,C,O byres
+
+#matrix out contact-inhi-sc.gnu dist :1-37,39-75,77-113,115-151&!@N,CA,C,O,H= :165-212&!@N,CA,C,O,H,N11,C1,C6,C13,O14= byres
+
+#matrix out contact-d-whole.gnu dist :1-37,39-75,77-113,115-151 :165-170,172-177,179-184,186-191,193-198,200-205,207-212,214-219,221-226,228-233,235-240,242-247 byres
+

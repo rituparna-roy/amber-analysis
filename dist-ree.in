@@ -1,0 +1,22 @@
+trajin ../*.nc 20001 25000
+
+#distance d1 :1 :37 out peptide-1.dat
+#distance d2 :1@CA,C,N,O :37@CA,C,N,O out peptide-1-bb.dat
+distance d3 :1@CA :37@CA out peptide-1-ca.dat
+
+#distance d4 :39 :75 out peptide-2.dat
+#distance d5 :39@CA,C,N,O :75@CA,C,N,O out peptide-2-bb.dat
+distance d6 :39@CA :75@CA out peptide-2-ca.dat
+
+#distance d7 :77 :113 out peptide-3.dat
+#distance d8 :77@CA,C,N,O :113@CA,C,N,O out peptide-3-bb.dat
+distance d9 :77@CA :113@CA out peptide-3-ca.dat
+
+#distance d10 :115 :151 out peptide-4.dat
+#distance d11 :115@CA,C,N,O :151@CA,C,N,O out peptide-4-bb.dat
+distance d12 :115@CA :151@CA out peptide-4-ca.dat
+
+#distance d13 :1,39,77,115 :37,75,113,151 out peptide.dat
+#distance d14 :1,39,77,115@CA,C,N,O :37,75,113,151@CA,C,N,O out peptide-bb.dat
+distance d15 :1,39,77,115@CA :37,75,113,151@CA out peptide-ca.dat
+

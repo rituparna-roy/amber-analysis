@@ -1,0 +1,17 @@
+trajin ../*.nc 20001 25000
+
+#radgyr :1-37&!@H= out rog-atp-noh-1.dat
+#radgyr :39-75&!@H= out rog-atp-noh-2.dat
+##radgyr :77-113&!@H= out rog-nor-entire-3.dat
+##radgyr :115-151&!@H= out rog-nor-entire-4.dat
+##radgyr :153-189&!@H= out rog-nor-entire-5.dat
+#
+#radgyr :1-37,39-75&!@H= out rog-atp-noh.dat
+
+radgyr :1-37@CA,C,N,O out rog-bb-1.dat
+radgyr :39-75@CA,C,N,O out rog-bb-2.dat
+radgyr :77-113@CA,C,N,O out rog-bb-3.dat
+radgyr :115-151@CA,C,N,O out rog-bb-4.dat
+##radgyr :153-189@CA,C,N,O out rog-nor-bb-5.dat
+
+radgyr :1-37,39-75,77-113,115-151@CA,C,N,O out rog-bb-entire.dat

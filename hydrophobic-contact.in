@@ -1,0 +1,76 @@
+trajin ../*.nc 20001 last
+
+
+watershell :1,39,77,115@CA,CB,CG,CD,CE out coor_no_res1.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :2,40,78,116@CA,CB out coor_no_res2.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :3,41,79,117@CA,CB out coor_no_res3.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :4,42,80,118@CA,CB,CG2 out coor_no_res4.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :5,43,81,119@CA,CB out coor_no_res5.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :6,44,82,120@CA,CB,CG2 out coor_no_res6.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :7,45,83,121@CA,CB out coor_no_res7.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :8,46,84,122@CA,CB out coor_no_res8.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :9,47,85,123@CA,CB,CG2 out coor_no_res9.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :10,48,86,124@CA,CB,CG out coor_no_res10.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :11,49,87,125@CA,CB,CG,CD out coor_no_res11.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :12,50,88,126@CA,CB,CG,CD1,CD2 out coor_no_res12.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :13,51,89,127@CA,CB out coor_no_res13.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :14,52,90,128@CA,CB out coor_no_res14.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :15,53,91,129@CA,CB,CG,CD1,CE1,CZ,CE2,CD2 out coor_no_res15.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :16,54,92,130@CA,CB,CG,CD1,CD2 out coor_no_res16.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :17,55,93,131@CA,CB,CG1,CG2 out coor_no_res17.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :18,56,94,132@CA,CB,CG,CE1,CD2 out coor_no_res18.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :19,57,95,133@CA,CB out coor_no_res19.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :20,58,96,134@CA,CB out coor_no_res20.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :21,59,97,135@CA,CB out coor_no_res21.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :22,60,98,136@CA,CB out coor_no_res22.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :23,61,99,137@CA,CB,CG,CD1,CE1,CZ,CE2,CD2 out coor_no_res23.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :24,62,100,138@CA out coor_no_res24.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :25,63,101,139@CA,CB out coor_no_res25.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :26,64,102,140@CA,CB,CG1,CG2,CD1 out coor_no_res26.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :27,65,103,141@CA,CB,CG,CD1,CD2 out coor_no_res27.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :28,66,104,142@CA,CB out coor_no_res28.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :29,67,105,143@CA,CB out coor_no_res29.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :30,68,106,144@CA,CB,CG2 out coor_no_res30.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :31,69,107,145@CA,CB out coor_no_res31.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :32,70,108,146@CA,CB,CG1,CG2 out coor_no_res32.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :33,71,109,147@CA out coor_no_res33.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :34,72,110,148@CA,CB out coor_no_res34.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :35,73,111,149@CA,CB out coor_no_res35.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :36,74,112,150@CA,CB,CG2 out coor_no_res36.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6
+
+watershell :37,75,113,151@CA,CB,CG,CD1,CE1,CZ,CE2,CD2 out coor_no_res37.dat lower 3.5 upper 5.0 noimage :165-212@CA,CB,CG,CD1,CE1,CZ,CE2,CD2,C1,C2,C3,C4,C5,C6

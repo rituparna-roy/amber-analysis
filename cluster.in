@@ -1,0 +1,31 @@
+trajin ../*.nc 20001 last 
+strip :Cl-:WAT outprefix noions
+
+#cluster P0 \
+#        dbscan minpoints 20 epsilon 10.0 sievetoframe \
+#        sieve 10 \
+#        loadpairdist pairdist CpptrajPairDist \
+#        out cnumvtime.dat \
+#        sil Sil \
+#        summary summary.dat \
+#        info info.dat \
+#        cpopvtime cpopvtime.agr normframe \
+#        repout rep repfmt pdb \
+#        singlerepout singlerep.nc singlerepfmt netcdf \
+#        avgout Avg avgfmt restart
+
+#clear all
+
+        cluster P0 \
+        dbscan minpoints 10 epsilon 1.51 sievetoframe \
+        rms :1-212@CA,C1,C6 \
+        sieve 10 random \
+        out cnumvtime.dat \
+        sil Sil \
+        summary summary.dat \
+        info info.dat \
+        cpopvtime cpopvtime.agr normframe \
+        repout rep repfmt pdb \
+        singlerepout singlerep.nc singlerepfmt netcdf \
+        avgout Avg avgfmt restart
+

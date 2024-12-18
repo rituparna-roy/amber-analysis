@@ -1,0 +1,14 @@
+trajin ../*.nc 1 last 10
+
+
+#strip !(:1-37,39-75,77-113,115-151@CA,C,O,N) outprefix dry
+strip !(:1-37,39-75,77-113,115-151@CA) outprefix dry
+#strip !(:1-152) outprefix dry
+
+
+
+trajout stripped.xtc
+
+#parmstrip !(:1-37,39-75,77-113,115-151)
+#parmwrite out strip-topology-test.prmtop
+

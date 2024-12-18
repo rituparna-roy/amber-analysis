@@ -1,0 +1,16 @@
+source leaprc.protein.ff14SB
+loadamberparams frcmod.known
+loadoff oab.off
+
+m =loadpdb peptide.pdb 
+saveamberparm m peptide.prmtop peptide.inpcrd
+
+n = loadpdb ligand.pdb
+saveamberparm n ligand.prmtop ligand.inpcrd
+
+p = loadpdb complex.pdb
+saveamberparm p complex.prmtop complex.inpcrd
+
+quit
+
+

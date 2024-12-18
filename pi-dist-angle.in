@@ -1,0 +1,29 @@
+trajin ../*.nc 20001 last
+
+distance d1 :91@CG,CD1,CE1,CZ,CE2,CD2 :202@CG,CD1,CE1,CZ,CE2,CD2 out phe-15-202.dat
+vector V1 corrplane :91@CG,CD1,CE1,CZ,CE2,CD2
+vector V2 corrplane :202@CG,CD1,CE1,CZ,CE2,CD2
+vectormath vec1 V1 vec2 V2 dotangle out phe-15-202.dat
+
+
+distance d2 :91@CG,CD1,CE1,CZ,CE2,CD2 :178@CG,CD1,CE1,CZ,CE2,CD2 out phe-15-178.dat
+vector V3 corrplane :91@CG,CD1,CE1,CZ,CE2,CD2
+vector V4 corrplane :178@CG,CD1,CE1,CZ,CE2,CD2
+vectormath vec1 V3 vec2 V4 dotangle out phe-15-178.dat
+
+
+distance d3 :23@CG,CD1,CE1,CZ,CE2,CD2 :208@CG,CD1,CE1,CZ,CE2,CD2 out phe-23-208.dat
+vector V5 corrplane :23@CG,CD1,CE1,CZ,CE2,CD2
+vector V6 corrplane :208@CG,CD1,CE1,CZ,CE2,CD2
+vectormath vec1 V5 vec2 V6 dotangle out phe-23-208.dat
+
+distance d4 :91@CG,CD1,CE1,CZ,CE2,CD2 :179@C1,C2,C3,C4,C5,C6 out ortho-1-15-179.dat
+vector V7 corrplane :91@CG,CD1,CE1,CZ,CE2,CD2
+vector V8 corrplane :179@C1,C2,C3,C4,C5,C6
+vectormath vec1 V7 vec2 V8 dotangle out ortho-1-15-179.dat
+
+distance d5 :23@CG,CD1,CE1,CZ,CE2,CD2 :209@C1,C2,C3,C4,C5,C6 out ortho-1-23-209.dat
+vector V9 corrplane :23@CG,CD1,CE1,CZ,CE2,CD2
+vector V10 corrplane :209@C1,C2,C3,C4,C5,C6
+vectormath vec1 V9 vec2 V10 dotangle out ortho-1-23-209.dat
+

@@ -1,0 +1,15 @@
+trajin ../*.nc 20001 last
+
+  nativecontacts name d1 :1-37,39-75,77-113,115-151&!@H= \   
+   writecontacts native-contacts.dat \   
+#   resout resout.dat \   
+   distance 5.0 \
+   out num_nat_nonnat.dat \
+   first \
+#    ref mono-ortho-d2-1-1.inpcrd \
+#   byresidue mindist maxdist \
+#   map mapout gnu \
+#   contactpdb contactspdb.pdb \
+   series seriesout native-contacts-series.dat \
+   savenonnative seriesnnout non-native-contacts-series.dat \
+#   resseriesout res-series.dat

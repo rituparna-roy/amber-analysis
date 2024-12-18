@@ -1,0 +1,3 @@
+trajin ../*.nc  20001 last
+
+molsurf :1-37,39-75,77-113,115-151 out sasa-200-mol.dat
